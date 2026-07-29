@@ -4,5 +4,5 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "PSILib"
-version = "0.0.0"
+version = "0.0.2"
 description = "Patitent Safety Indicator Library"
